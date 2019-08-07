@@ -4,7 +4,7 @@ De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbraba
 
 Hier vind je enkel:
 
-- Issues: openstaande taken
+- [Issues](https://github.com/provinciesincijfers/PinC-taakopvolging/issues): openstaande taken
 - [Projects](https://github.com/provinciesincijfers/PinC-taakopvolging/projects): taken georganiseerd volgens thema
 
 Jump right in:
