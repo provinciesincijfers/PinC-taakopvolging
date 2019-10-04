@@ -15,3 +15,20 @@ Jump right in:
 - [Overzicht van de taken per label](https://github.com/provinciesincijfers/PinC-taakopvolging/labels)
 - [Ook de gesloten Issues](https://github.com/provinciesincijfers/PinC-taakopvolging/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - [Fouten](https://github.com/provinciesincijfers/PinC-taakopvolging/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+
+
+## Rapporten in productie:
+
+| rapportcode   | verantwoorderlijke  |
+|---|---|
+|omgevingsanalyse_steekkaart | Stefan |
+|rapport_armoede | Vicky |
+|rapport_detailhandel | Joost |
+|rapport_economie (tabellen) | Lieven |
+|rapport_klimaat  | Stefan |
+|rapport_onderwijs | Vicky |
+|rapport_wonen | West-Vlaanderen |
+|steekkaart_demografie | Stefan |
+|steekkaart_economie | Lieven |
+|tabellenrapport_diversiteit | Lore |
