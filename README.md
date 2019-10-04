@@ -20,7 +20,7 @@ Jump right in:
 
 ## Rapporten in productie:
 
-| rapportcode   | verantwoorderlijke  |
+| rapportcode   | verantwoordelijke  |
 |---|---|
 |omgevingsanalyse_steekkaart | Stefan |
 |rapport_armoede | Vicky |
