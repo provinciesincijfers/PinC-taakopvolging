@@ -29,6 +29,7 @@ Jump right in:
 |rapport_klimaat  | Stefan |
 |rapport_onderwijs | Vicky |
 |rapport_wonen | West-Vlaanderen |
+|rapport_ouderenzorg | Karolien |
 |steekkaart_demografie | Stefan |
 |steekkaart_economie | Lieven |
 |tabellenrapport_diversiteit | Lore |
