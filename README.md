@@ -35,6 +35,6 @@ Jump right in:
 |tabellenrapport_diversiteit | Lore |
 |rapport_veiligheid | ??? |
 
-Om een rapport te testen, voorbeeld voor rapport_klimaat:
-https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true (live versie)
-https://provincies.incijfers.be/admin/jive/report/?id=rapport_klimaat&openinputs=true (ontwikkelversie)
+Om een rapport te testen, voorbeeld voor rapport_klimaat:  
+https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true (live versie)  
+https://provincies.incijfers.be/admin/jive/report/?id=rapport_klimaat&openinputs=true (ontwikkelversie)  
