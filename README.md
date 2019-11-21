@@ -23,7 +23,7 @@ Jump right in:
 | rapportcode   | verantwoordelijke  |
 |---|---|
 |omgevingsanalyse_steekkaart | Stefan |
-|rapport_armoede | Vicky |
+|rapport_armoede | Tine |
 |rapport_detailhandel | Joost |
 |rapport_economie (tabellen) | Lieven |
 |rapport_klimaat  | Stefan |
