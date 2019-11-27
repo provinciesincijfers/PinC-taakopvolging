@@ -30,7 +30,8 @@ Jump right in:
 |rapport_veiligheid | Ine |
 |rapport_armoede | Tine |
 |rapport_ouderenzorg | Karolien |
-
+|||
+|||
 |steekkaart_demografie | Stefan |
 |steekkaart_economie | Lieven |
 |tabellenrapport_bevolking | Stefan |
