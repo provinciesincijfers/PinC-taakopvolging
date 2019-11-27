@@ -32,6 +32,8 @@ Jump right in:
 |rapport_ouderenzorg | Karolien |
 |steekkaart_demografie | Stefan |
 |steekkaart_economie | Lieven |
+|tabellenrapport_bevolking | Stefan |
+|tabellenrapport_huishoudens | Stefan |
 |tabellenrapport_diversiteit | Lore |
 |rapport_veiligheid | Ine |
 
