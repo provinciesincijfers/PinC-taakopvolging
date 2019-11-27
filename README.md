@@ -40,4 +40,11 @@ https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true 
 https://provincies.incijfers.be/admin/jive/report/?id=rapport_klimaat&openinputs=true (ontwikkelversie)  
 
 
-## Volgorde themaboom:
+## Volgorde themaboom
+|bevolking |onderwijs |gezondheid en handicap | 
+|huishoudens |wonen |zorgaanbod |
+|diversiteit |bodembezetting | |
+|socio-economische positie |klimaat | |
+|arbeidsmarkt |mobiliteit | |
+|economische activiteit |landbouw | |
+|welvaart en armoede |veiligheid | |
