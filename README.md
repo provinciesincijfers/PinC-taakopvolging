@@ -23,19 +23,20 @@ Jump right in:
 | rapportcode   | verantwoordelijke  |
 |---|---|
 |omgevingsanalyse_steekkaart | Stefan |
-|rapport_armoede | Tine |
 |rapport_detailhandel | Joost |
-|rapport_economie (tabellen) | Lieven |
-|rapport_klimaat  | Stefan |
 |rapport_onderwijs | Vicky |
 |rapport_wonen | West-Vlaanderen |
+|rapport_klimaat  | Stefan |
+|rapport_armoede | Tine |
+|rapport_veiligheid | Ine |
 |rapport_ouderenzorg | Karolien |
+|---|---|
 |steekkaart_demografie | Stefan |
 |steekkaart_economie | Lieven |
 |tabellenrapport_bevolking | Stefan |
 |tabellenrapport_huishoudens | Stefan |
 |tabellenrapport_diversiteit | Lore |
-|rapport_veiligheid | Ine |
+|rapport_economie (tabellen) | Lieven |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true (live versie)  
