@@ -32,8 +32,6 @@ Jump right in:
 |rapport_ouderenzorg | Karolien |
 |||
 |||
-| rapportcode   | verantwoordelijke  |
-|---|---|
 |steekkaart_demografie | Stefan |
 |steekkaart_economie | Lieven |
 |tabellenrapport_bevolking | Stefan |
