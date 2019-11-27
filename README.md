@@ -49,7 +49,7 @@ arbeidsmarkt |
 economische activiteit |
 welvaart en armoede |
 onderwijs |
-wonen |zorgaanbod |
+wonen |
 bodembezetting |
 klimaat |
 mobiliteit |
