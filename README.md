@@ -33,11 +33,11 @@ Jump right in:
 |||
 |||
 |steekkaart_demografie | Stefan |
-|steekkaart_economie | Lieven |
+|steekkaart_economie | Vicky |
 |tabellenrapport_bevolking | Stefan |
 |tabellenrapport_huishoudens | Stefan |
 |tabellenrapport_diversiteit | Lore |
-|rapport_economie (tabellen) | Lieven |
+|rapport_economie (tabellen) | Vicky |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true (live versie)  
