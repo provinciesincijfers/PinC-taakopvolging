@@ -1,13 +1,26 @@
 # PinC-taakopvolging
 
-De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbrabant.be/share/page/site/socialeplanning/document-details?nodeRef=workspace://SpacesStore/44a23bf7-0262-41b1-bb4d-757cc38ace63)
+## Gebruik issuetracker
 
-Hier vind je enkel:
+[Agenda eerstvolgende redactiegroep](https://github.com/provinciesincijfers/PinC-taakopvolging/milestone/2)
 
+Structuur redactiegroep:
+- data ([onderwerpentabel](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/onderwerpentabel),[data](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/data)) + overlopen Logboek
+- projecten 
+- producten ([rapporten](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/Rapporten), [gebiedsniveaus](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/gebiedsniveaus), [enhancement](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/enhancement), [dashboard](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/dashboard), [themaboom](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/themaboom))
+- [communicatie](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/communicatie)
+- beheersafspraken ([RG-beheersafspraken](https://github.com/provinciesincijfers/PinC-taakopvolging/labels/RG-beheersafspraken))
+
+Instructies
+- [maak](https://github.com/provinciesincijfers/PinC-taakopvolging/issues/new) of zoek een Issue
+- geef labels om structuur te geven
+- ken de Milestone "Redactiegroep" toe om het op de agenda te zetten
+
+
+
+Overzichten:
 - [Issues](https://github.com/provinciesincijfers/PinC-taakopvolging/issues): openstaande taken
 - [Projects](https://github.com/provinciesincijfers/PinC-taakopvolging/projects): taken georganiseerd volgens thema
-
-Jump right in:
 
 - [Taken zonder verantwoordelijke](https://github.com/provinciesincijfers/PinC-taakopvolging/issues?utf8=%E2%9C%93&q=is%3Aopen+no%3Aassignee)
 - [Taken van persoon X](https://github.com/provinciesincijfers/PinC-taakopvolging/issues?q=assignee%3Ajoostschouppe+is%3Aopen)
@@ -42,6 +55,8 @@ Jump right in:
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true (live versie)  
 https://provincies.incijfers.be/admin/jive/report/?id=rapport_klimaat&openinputs=true (ontwikkelversie)  
+
+De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbrabant.be/share/page/site/socialeplanning/document-details?nodeRef=workspace://SpacesStore/44a23bf7-0262-41b1-bb4d-757cc38ace63)
 
 
 ## Volgorde themaboom
