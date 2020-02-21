@@ -64,3 +64,8 @@ De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbraba
 - arbeidsmarkt | economische activiteit | welvaart en armoede |
 - onderwijs | wonen | bodembezetting | klimaat | landbouw | mobiliteit | veiligheid | 
 - gezondheid en handicap | zorgaanbod |
+
+
+# Live ondersteuning
+
+Je kan chatten via https://riot.im/app/#/room/#provinciesincijfers:matrix.org
