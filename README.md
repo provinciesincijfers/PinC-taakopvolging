@@ -31,7 +31,7 @@ Overzichten:
 
 
 
-## Rapporten in productie:
+## Taakverdeling rapporten:
 
 | rapportcode   | verantwoordelijke  |
 |---|---|
@@ -57,6 +57,24 @@ https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true 
 https://provincies.incijfers.be/admin/jive/report/?id=rapport_klimaat&openinputs=true (ontwikkelversie)  
 
 De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbrabant.be/share/page/site/socialeplanning/document-details?nodeRef=workspace://SpacesStore/44a23bf7-0262-41b1-bb4d-757cc38ace63)
+
+## Taakverdeling Dashboard
+
+| dashboard   | verantwoordelijke  |  check  |
+|---|---|---|
+|bevolking | Rudy | Filip & Stefan |
+|huishoudens | Rudy | Stefan & Filip |
+|nationaliteit en herkomst | Rudy | Stefanie/Sofie |
+|arbeidsmarkt | Vicky (werkgroepECO) | OVl & Stefan |
+|economische activiteit  | Vicky (werkgroepECO) | Stefan (werkgroepECO) |
+|detailhandel | FIlip (werkgroepDET) | Lieven |
+|welvaart en armoede | Tine (of WVl?-TBD) | WVl (of Tine?-TBD) |
+|onderwijs | Vicky | Lieven |
+|wonen | Stefanie | Filip |
+|klimaat | Stefan (werkgroepKLI) | Lieven |
+|landbouw | Tine (werkgroepLAN) | Ine |
+|veiligheid | Ine | OVl |
+|zorgaanbod | Karolien | Stefanie |
 
 
 ## Volgorde themaboom
