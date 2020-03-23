@@ -75,6 +75,8 @@ De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbraba
 |landbouw | Tine (werkgroepLAN) | Ine |
 |veiligheid | Ine | OVl |
 |zorgaanbod | Karolien | Stefanie |
+|   |   |   |
+|eindredactie | Koen |   |
 
 
 ## Volgorde themaboom
