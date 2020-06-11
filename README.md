@@ -68,8 +68,8 @@ De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbraba
 |nationaliteit en herkomst | Rudy | Stefanie/Sofie |
 |arbeidsmarkt | Vicky (werkgroepECO) | OVl & Stefan |
 |economische activiteit  | Vicky (werkgroepECO) | Stefan (werkgroepECO) |
-|detailhandel | FIlip (werkgroepDET) | Lieven |
-|welvaart en armoede | Tine (of WVl?-TBD) | WVl (of Tine?-TBD) |
+|detailhandel | Filip (werkgroepDET) | Lieven |
+|welvaart en armoede | WVL | Tine |
 |onderwijs | Vicky | Lieven |
 |wonen | Stefanie | Filip |
 |klimaat | Stefan (werkgroepKLI) | Lieven |
