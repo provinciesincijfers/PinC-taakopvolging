@@ -43,6 +43,7 @@ Overzichten:
 |rapport_veiligheid | Ine |
 |rapport_armoede | Tine |
 |rapport_ouderenzorg | Karolien |
+|rapport_demografie | Filip |
 |||
 |||
 |steekkaart_demografie | Stefan |
