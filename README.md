@@ -46,7 +46,7 @@ Overzichten:
 |rapport_demografie | Filip |
 |||
 |||
-|steekkaart_demografie | Stefan |
+|steekkaart_demografie | Stefan (UITDOVEND) |
 |steekkaart_economie | Vicky |
 |tabellenrapport_bevolking | Stefan |
 |tabellenrapport_huishoudens | Stefan |
