@@ -36,6 +36,7 @@ Overzichten:
 | rapportcode   | verantwoordelijke  |
 |---|---|
 |omgevingsanalyse_steekkaart | Stefan |
+|rapport_demografie | Filip |
 |rapport_detailhandel | Joost |
 |rapport_onderwijs | Vicky |
 |rapport_wonen | West-Vlaanderen |
@@ -43,7 +44,8 @@ Overzichten:
 |rapport_veiligheid | Ine |
 |rapport_armoede | Tine |
 |rapport_ouderenzorg | Karolien |
-|rapport_demografie | Filip |
+|rapport_bgz | Koen |
+|rapport_landbouw | Lieven |
 |||
 |||
 |steekkaart_demografie | Stefan (UITDOVEND) |
