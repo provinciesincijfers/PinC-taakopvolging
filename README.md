@@ -51,6 +51,7 @@ Overzichten:
 |steekkaart_demografie | Stefan (UITDOVEND) |
 |steekkaart_economie | Vicky |
 |tabellenrapport_bevolking | Stefan |
+|tabellenrapport_klimaat | Stefan |
 |tabellenrapport_huishoudens | Stefan |
 |tabellenrapport_diversiteit | Lore |
 |rapport_economie (tabellen) | Vicky |
