@@ -13,7 +13,7 @@ Structuur redactiegroep:
 
 Instructies
 - [maak](https://github.com/provinciesincijfers/PinC-taakopvolging/issues/new) of zoek een Issue
-- geef labels om structuur te geven
+- geef labels om structuur te geven. [Lijst beschikbare labels](https://github.com/provinciesincijfers/PinC-taakopvolging/labels) (je kan er desnoods zelf bijmaken)
 - ken de Milestone "Redactiegroep" toe om het op de agenda te zetten
 
 
