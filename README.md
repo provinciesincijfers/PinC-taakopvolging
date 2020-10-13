@@ -75,6 +75,7 @@ De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbraba
 |welvaart en armoede | WVL | Tine |
 |onderwijs | Vicky | Lieven |
 |wonen | Stefanie | Filip |
+|ruimte | Valerie | Mieke |
 |klimaat | Stefan (werkgroepKLI) | Lieven |
 |landbouw | Tine (werkgroepLAN) | Ine |
 |veiligheid | Ine | OVl |
