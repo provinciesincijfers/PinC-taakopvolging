@@ -87,7 +87,7 @@ De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbraba
 ## Volgorde themaboom
 - bevolking | huishoudens | nationaliteit en herkomst | socio-economische positie |
 - arbeidsmarkt | economische activiteit | welvaart en armoede |
-- onderwijs | wonen | bodembezetting | klimaat | landbouw | mobiliteit | veiligheid | 
+- onderwijs | wonen | ruimte | klimaat | landbouw | mobiliteit | veiligheid | 
 - gezondheid en handicap | zorgaanbod |
 
 - gebiedsindelingen
