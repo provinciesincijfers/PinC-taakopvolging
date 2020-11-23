@@ -96,4 +96,4 @@ De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbraba
 
 # Live ondersteuning
 
-Je kan chatten via https://riot.im/app/#/room/#provinciesincijfers:matrix.org
+Je kan chatten via https://gitter.im/provinciesincijfers/community
