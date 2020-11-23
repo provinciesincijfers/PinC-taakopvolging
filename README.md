@@ -33,28 +33,30 @@ Overzichten:
 
 ## Taakverdeling rapporten:
 
-| rapportcode   | verantwoordelijke  |
-|---|---|
-|omgevingsanalyse_steekkaart | Stefan |
-|rapport_demografie | Filip |
-|rapport_detailhandel | Joost |
-|rapport_onderwijs | Vicky |
-|rapport_wonen | West-Vlaanderen |
-|rapport_klimaat  | Stefan |
-|rapport_veiligheid | Ine |
-|rapport_armoede | Tine |
-|rapport_ouderenzorg | Karolien |
-|rapport_bgz | Koen |
-|rapport_landbouw | Lieven |
+| rapportcode   | verantwoordelijke  | gebiedsniveaus | aantal gebieden |
+|---|---|---|---|
+|omgevingsanalyse_steekkaart | Stefan | gemeente, provincie, bijna statsec&ggw7 | ∞ |
+|rapport_demografie | Filip | gemeente, statsec, ggw7, deelgemeente, provincie | ∞ |
+|rapport_natioherkomst | Lore | gemeente, statsec, ggw7, deelgemeente, provincie | ∞ |
+|rapport_detailhandel | Joost | gemeente, provincie | ∞ |
+|rapport_onderwijs | Vicky | gemeente, provincie | ∞ |
+|rapport_wonen | West-Vlaanderen | gemeente, provincie | ∞ |
+|rapport_klimaat  | Stefan | gemeente, provincie | ∞ |
+|rapport_veiligheid | Ine | gemeente, provincie | ∞ |
+|rapport_armoede | Tine | gemeente, provincie | ∞ |
+|rapport_ouderenzorg | Karolien | gemeente, provincie | ∞ |
+|rapport_bgz | Koen |  gemeente | 1 |
+|rapport_landbouw | Lieven | TODO |
+|rapport_elz | ??? | elz | 1
 |||
 |||
 |steekkaart_demografie | Stefan (UITDOVEND) |
-|steekkaart_economie | Vicky |
-|tabellenrapport_bevolking | Stefan |
-|tabellenrapport_klimaat | Stefan |
-|tabellenrapport_huishoudens | Stefan |
-|tabellenrapport_diversiteit | Lore |
-|rapport_economie (tabellen) | Vicky |
+|steekkaart_economie | Vicky | gemeente, provincie | ∞ |
+|tabellenrapport_bevolking | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
+|tabellenrapport_klimaat | Stefan | gemeente | 1 (+3 als vgl-gebied) |
+|tabellenrapport_huishoudens | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
+|tabellenrapport_diversiteit | Lore | gemeente, provincie | 1 |
+|rapport_economie (tabellen) | Vicky | gemeente | 1 (+3 als vgl-gebied) |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true (live versie)  
