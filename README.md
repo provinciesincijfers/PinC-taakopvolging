@@ -46,8 +46,8 @@ Overzichten:
 |rapport_armoede | Tine | gemeente, provincie | ∞ |
 |rapport_ouderenzorg | Karolien | gemeente, provincie | ∞ |
 |rapport_bgz | Koen |  gemeente | 1 |
-|rapport_landbouw | Lieven | TODO |
-|rapport_elz | ??? | elz | 1
+|rapport_landbouw | Lieven (in opmaak!) | gemeente, provincie | ∞ |
+|rapport_elz | ??? | elz | 1 |
 |||
 |||
 |steekkaart_demografie | Stefan (UITDOVEND) |
