@@ -35,7 +35,7 @@ Overzichten:
 
 | rapportcode   | verantwoordelijke  | gebiedsniveaus | aantal gebieden |
 |---|---|---|---|
-|omgevingsanalyse_steekkaart | Stefan | gemeente, provincie, bijna statsec&ggw7 | ∞ |
+|omgevingsanalyse_steekkaart | Stefan | gemeente, statsec, ggw7, deelgemeente, provincie | ∞ |
 |rapport_demografie | Filip | gemeente, statsec, ggw7, deelgemeente, provincie | ∞ |
 |rapport_natioherkomst | Lore | gemeente, statsec, ggw7, deelgemeente, provincie | ∞ |
 |rapport_detailhandel | Joost | gemeente, provincie | ∞ |
