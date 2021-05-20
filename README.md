@@ -47,7 +47,7 @@ Overzichten:
 |rapport_ouderenzorg | Karolien | gemeente, provincie | ∞ |
 |rapport_bgz | Koen |  gemeente | 1 |
 |rapport_landbouw | Lieven (in opmaak!) | gemeente, provincie | ∞ |
-|rapport_elz | Hilde | elz | 1 |
+|rapport_elz | Hilde | elz, elz-via-gemeente | 1 |
 |||
 |||
 |steekkaart_demografie | Stefan (UITDOVEND) |
