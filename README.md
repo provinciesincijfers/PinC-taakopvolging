@@ -45,7 +45,7 @@ Overzichten:
 |rapport_veiligheid | Ine | gemeente, provincie | ∞ |
 |rapport_armoede | Tine | gemeente, provincie | ∞ |
 |rapport_ouderenzorg | Karolien | gemeente, provincie | ∞ |
-|rapport_bgz | Koen |  gemeente | 1 |
+|rapport_bgz | Hilde |  gemeente | 1 |
 |rapport_landbouw | Lieven (in opmaak!) | gemeente, provincie | ∞ |
 |rapport_elz | Hilde | elz, elz-via-gemeente | 1 |
 |||
