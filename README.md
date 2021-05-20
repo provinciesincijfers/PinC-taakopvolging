@@ -62,7 +62,7 @@ Om een rapport te testen, voorbeeld voor rapport_klimaat:
 https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true (live versie)  
 https://provincies.incijfers.be/admin/jive/report/?id=rapport_klimaat&openinputs=true (ontwikkelversie)  
 
-De landingspagina rond rapporten vind je [op Alfresco](https://share.vlaamsbrabant.be/share/page/site/socialeplanning/document-details?nodeRef=workspace://SpacesStore/44a23bf7-0262-41b1-bb4d-757cc38ace63)
+De landingspagina rond rapporten vind je [op hier op Github](https://github.com/provinciesincijfers/JiveDocumentation/tree/master/07.%20Rapporten)
 
 ## Taakverdeling Dashboard
 
