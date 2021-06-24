@@ -73,11 +73,12 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 |nationaliteit en herkomst | Rudy | Stefanie/Sofie |
 |arbeidsmarkt | Vicky (werkgroepECO) | OVl & Stefan |
 |economische activiteit  | Vicky (werkgroepECO) | Stefan |
+|toerisme | Karolien | ? |
 |detailhandel | Filip (werkgroepDET) | Lieven |
 |welvaart en armoede | WVL | Tine |
 |onderwijs | Vicky | Lieven |
 |wonen | Stefanie | Filip |
-|ruimte | Valerie | Mieke |
+|ruimte | Valerie | Chris |
 |klimaat | Stefan (werkgroepKLI) | Lieven |
 |landbouw | Tine (werkgroepLAN) | Ine |
 |veiligheid | Ine | OVl |
@@ -88,7 +89,7 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 
 ## Volgorde themaboom
 - bevolking | huishoudens | nationaliteit en herkomst | socio-economische positie |
-- arbeidsmarkt | economische activiteit | welvaart en armoede |
+- arbeidsmarkt | economische activiteit | toerisme | welvaart en armoede |
 - onderwijs | wonen | ruimte | klimaat | landbouw | mobiliteit | veiligheid | 
 - gezondheid en handicap | zorgaanbod |
 
