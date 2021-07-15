@@ -51,7 +51,6 @@ Overzichten:
 |||
 |||
 |steekkaart_demografie | Stefan (UITDOVEND) |
-|steekkaart_economie | Vicky | gemeente, provincie | ∞ |
 |tabellenrapport_bevolking | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
 |tabellenrapport_klimaat | Stefan | gemeente | 1 (+3 als vgl-gebied) |
 |tabellenrapport_huishoudens | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
