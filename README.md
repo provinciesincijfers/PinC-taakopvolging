@@ -72,7 +72,7 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 |nationaliteit en herkomst | Rudy | Stefanie/Sofie |
 |arbeidsmarkt | Vicky (werkgroepECO) | OVl & Stefan |
 |economische activiteit  | Vicky (werkgroepECO) | Stefan |
-|toerisme | Karolien | ? |
+|toerisme | Karolien | Lieven |
 |detailhandel | Filip (werkgroepDET) | Lieven |
 |welvaart en armoede | WVL | Tine |
 |onderwijs | Vicky | Lieven |
