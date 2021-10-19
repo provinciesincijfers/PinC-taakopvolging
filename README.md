@@ -42,7 +42,7 @@ Overzichten:
 |rapport_onderwijs | Vicky | gemeente, provincie | ∞ |
 |rapport_wonen | West-Vlaanderen | gemeente, provincie | ∞ |
 |rapport_klimaat  | Stefan | gemeente, provincie | ∞ |
-|rapport_veiligheid | Ine | gemeente, provincie | ∞ |
+|rapport_veiligheid | Valerie | gemeente, provincie | ∞ |
 |rapport_armoede | Tine | gemeente, provincie | ∞ |
 |rapport_ouderenzorg | Karolien | gemeente, provincie | ∞ |
 |rapport_bgz | Hilde |  gemeente | 1 |
@@ -78,8 +78,8 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 |wonen | Stefanie | Filip |
 |ruimte | Valerie | Chris |
 |klimaat | Stefan (werkgroepKLI) | Lieven |
-|landbouw | Tine (werkgroepLAN) | Ine |
-|veiligheid | Ine | OVl |
+|landbouw | Tine (werkgroepLAN) | Valerie |
+|veiligheid | Valerie | OVl |
 |armoede | WVL | Tine |
 |zorgaanbod | Karolien | Stefanie |
 |   |   |   |
