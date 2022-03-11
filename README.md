@@ -94,8 +94,3 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 
 - gebiedsindelingen
 - thematische rapporten
-
-
-# Live ondersteuning
-
-Je kan chatten via https://gitter.im/provinciesincijfers/community
