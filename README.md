@@ -42,6 +42,8 @@ Overzichten:
 |rapport_onderwijs | Vicky | gemeente, provincie | ∞ |
 |rapport_wonen | West-Vlaanderen | gemeente, provincie | ∞ |
 |rapport_klimaat  | Stefan | gemeente, provincie | ∞ |
+|rapport_scenarios  | Stefan | gemeente, gewest | 2 |
+|rapport_adaptatie  | Stefan | gemeente, provincie | ∞ |
 |rapport_veiligheid | Valerie | gemeente, provincie | ∞ |
 |rapport_armoede | Tine | gemeente, provincie | ∞ |
 |rapport_ouderenzorg | Karolien | gemeente, provincie | ∞ |
