@@ -60,7 +60,7 @@ Overzichten:
 |rapport_economie (tabellen) | Vicky | gemeente | 1 (+3 als vgl-gebied) |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
-https://provincies.incijfers.be/jive/report/?id=rapport_klimaat&openinputs=true (live versie)  
+https://provincies.incijfers.be/databank/report/?id=rapport_klimaat&openinputs=true (live versie)  
 https://provincies.incijfers.be/admin/jive/report/?id=rapport_klimaat&openinputs=true (ontwikkelversie)  
 
 De landingspagina rond rapporten vind je [op hier op Github](https://github.com/provinciesincijfers/JiveDocumentation/tree/master/07.%20Rapporten)
