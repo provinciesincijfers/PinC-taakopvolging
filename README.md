@@ -42,7 +42,7 @@ Overzichten:
 |rapport_onderwijs | Vicky | gemeente, provincie | ∞ |
 |rapport_wonen | West-Vlaanderen | gemeente, provincie | ∞ |
 |rapport_klimaat  | Stefan | gemeente, provincie | ∞ |
-|rapport_scenarios  | Stefan | gemeente, gewest | 2 |
+|rapport_klimaatscenarios  | Stefan | gemeente, gewest | 2 |
 |rapport_adaptatie  | Stefan | gemeente, provincie | ∞ |
 |rapport_veiligheid | Valerie | gemeente, provincie | ∞ |
 |rapport_armoede | Tine | gemeente, provincie | ∞ |
@@ -50,9 +50,9 @@ Overzichten:
 |rapport_bgz | Hilde |  gemeente | 1 |
 |rapport_landbouw | Tine (inhoudelijk), Lieven (technisch) | gemeente, provincie | ∞ |
 |rapport_elz | Hilde | elz, elz-via-gemeente | 1 |
+|rapport_ruimte | Valerie | gemeente, provincie | ∞ |
 |||
 |||
-|steekkaart_demografie | Stefan (UITDOVEND) |
 |tabellenrapport_bevolking | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
 |tabellenrapport_klimaat | Stefan | gemeente | 1 (+3 als vgl-gebied) |
 |tabellenrapport_huishoudens | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
