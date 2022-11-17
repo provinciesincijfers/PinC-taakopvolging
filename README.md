@@ -51,6 +51,7 @@ Overzichten:
 |rapport_landbouw | Tine (inhoudelijk), Lieven (technisch) | gemeente, provincie | ∞ |
 |rapport_elz | Hilde | elz, elz-via-gemeente | 1 |
 |rapport_ruimte | Valerie | gemeente, provincie | ∞ |
+|rapport_opvangbp | Vera en Emilien |  gemeente | 1 |
 |||
 |||
 |tabellenrapport_bevolking | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
