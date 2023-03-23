@@ -58,6 +58,7 @@ Overzichten:
 |tabellenrapport_huishoudens | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
 |tabellenrapport_diversiteit | Lore | gemeente, provincie | 1 |
 |rapport_economie | Vicky | gemeente | 1 (+3 als vgl-gebied) |
+|rapport_mobiliteit | Hanne & Lieven | gemeente, provincie | ∞ |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/databank/report/?id=rapport_klimaat&openinputs=true (live versie)  
@@ -84,7 +85,7 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 |veiligheid | Valerie | OVl |
 |armoede | WVL | Tine |
 |zorgaanbod | Karolien | Stefanie |
-|   |   |   |
+|mobiliteit   |Lieven   |Hanne   |
 |eindredactie | Koen |   |
 
 
