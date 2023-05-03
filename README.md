@@ -59,6 +59,7 @@ Overzichten:
 |tabellenrapport_diversiteit | Lore | gemeente, provincie | 1 |
 |rapport_economie | Vicky | gemeente | 1 (+3 als vgl-gebied) |
 |rapport_mobiliteit | Hanne & Lieven | gemeente, provincie | ∞ |
+|omgevingsanalyse| Hilde | gemeente, provincie | 1 |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/databank/report/?id=rapport_klimaat&openinputs=true (live versie)  
