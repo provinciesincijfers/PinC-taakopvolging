@@ -91,10 +91,14 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 
 
 ## Volgorde themaboom
-- bevolking | huishoudens | nationaliteit, herkomst en taal | socio-economische positie |
-- arbeidsmarkt | economische activiteit | detailhandel | toerisme | welvaart en armoede |
-- onderwijs | wonen | ruimte | erfgoed | klimaat | natuur | milieu | water | landbouw | mobiliteit | veiligheid | 
-- gezondheid en handicap | zorgaanbod |
+- Demografie: bevolking | huishoudens | nationaliteit, herkomst en taal
+- Onderwijs
+- Werken en ondernemen: socio-economische positie | arbeidsmarkt | economische activiteit | detailhandel | landbouw
+- Wonen en ruimtegebruik: wonen | ruimtegebruik
+- Mobiliteit en verkeersveiligheid: mobiliteit | verkeersveiligheid
+- Leefmilieu en klimaat: klimaat | natuur | milieu | water
+- Samenleving en welzijn: welvaart en armoede | gezondheid en handicap | zorgaanbod | criminaliteit
+- Toerisme, vrije tijd en erfgoed: toerisme en vrije tijd | erfgoed 
 
 - gebiedsindelingen
 - thematische rapporten
