@@ -97,7 +97,7 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 - Wonen en ruimtegebruik: wonen | ruimtegebruik
 - Mobiliteit en verkeersveiligheid: mobiliteit | verkeersveiligheid
 - Leefmilieu en klimaat: klimaat | natuur | milieu | water
-- Samenleving en welzijn: welvaart en armoede | gezondheid en handicap | zorgaanbod | criminaliteit
+- Samenleving en welzijn: welvaart en armoede | gezondheid en handicap | zorgaanbod | criminaliteit | gezelschapsdieren
 - Toerisme, vrije tijd en erfgoed: toerisme en vrije tijd | erfgoed 
 
 - gebiedsindelingen
