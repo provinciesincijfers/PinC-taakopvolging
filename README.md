@@ -74,19 +74,18 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 |bevolking | Rudy | Filip & Stefan |
 |huishoudens | Rudy | Stefan & Filip |
 |nationaliteit en herkomst | Rudy | Stefanie/Sofie |
-|werken | Vicky (werkgroepECO) | OVl & Stefan |
-|economie | Vicky (werkgroepECO) | Stefan |
-|toerisme | Karolien | Lieven |
-|detailhandel | Filip (werkgroepDET) | Lieven |
 |onderwijs | Vicky | Lieven |
+|arbeidsmarkt | Vicky (werkgroepECO) | OVl & Stefan |
+|economie | Vicky (werkgroepECO) | Stefan |
+|detailhandel | Filip (werkgroepDET) | Lieven |
+|landbouw | Tine (werkgroepLAN) | Valerie |
 |wonen | Stefanie | Filip |
 |ruimte | Valerie | Chris |
+|mobiliteit | Lieven | Hanne |
 |klimaat | Stefan (werkgroepKLI) | Lieven |
-|landbouw | Tine (werkgroepLAN) | Valerie |
-|veiligheid | Valerie | OVl |
 |armoede | WVL | Tine |
 |zorgaanbod | Karolien | Stefanie |
-|mobiliteit   |Lieven   |Hanne   |
+|toerisme | Karolien | Lieven |
 |eindredactie | Koen |   |
 
 
