@@ -1,4 +1,4 @@
-#Afsprakenkader Redactiegroep
+# Afsprakenkader Redactiegroep
 
 Hierin lijsten we alle afspraken op die gemaakt werden over hoe de redactiegroep te werk gaat.
 
@@ -16,4 +16,4 @@ Vòòr elke redactiegroep, stuurt de voorzitter de agenda rond met daarin agenda
 Het verslag van elke Redactiegroep wordt kort na de vergadering rondgestuurd ter nazicht. Iedereen kijkt het verslag na en maakt aanvullingen waar nodig. In het verslag wordt bovenaan aangegeven of het werd nagelezen waarbij men ook zijn of haar akkoord geeft.
 
 ## Deadlines
-Tijdens de redactiegroep maken we concrete afspraken over de termijn en de verantwoordelijke persoon wat betreft de concrete uitwerking doet van acties die geformuleerd worden naar aanleiding van agendapunten. 
+Tijdens de redactiegroep maken we concrete afspraken over de termijn en de verantwoordelijke persoon wat betreft de concrete uitwerking van acties die geformuleerd werden naar aanleiding van agendapunten. 
