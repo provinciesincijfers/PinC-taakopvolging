@@ -38,28 +38,28 @@ Overzichten:
 |omgevingsanalyse_steekkaart | Stefan | gemeente, statsec, ggw7, deelgemeente, provincie | ∞ |
 |rapport_demografie | Filip | gemeente, statsec, ggw7, deelgemeente, provincie | ∞ |
 |rapport_natioherkomst | Lore | gemeente, statsec, ggw7, deelgemeente, provincie | ∞ |
-|rapport_detailhandel | Filip/Vicky | gemeente, provincie | ∞ |
 |rapport_onderwijs | Vicky | gemeente, provincie | ∞ |
+|rapport_arbeidsmarkt|Vicky|gemeente,provincie| ∞ |
+|rapport_detailhandel | Filip/Vicky | gemeente, provincie | ∞ |
+|rapport_landbouw | Tine (inhoudelijk), Lieven (technisch) | gemeente, provincie | ∞ |
 |rapport_wonen | West-Vlaanderen | gemeente, provincie | ∞ |
+|rapport_ruimte | Valerie | gemeente, provincie | ∞ |
+|rapport_mobiliteit | Hanne & Lieven | gemeente, provincie | ∞ |
 |rapport_klimaat  | Stefan | gemeente, provincie | ∞ |
 |rapport_klimaatscenarios  | Stefan | gemeente, gewest | 2 |
 |rapport_adaptatie  | Stefan | gemeente, provincie | ∞ |
-|rapport_veiligheid | Valerie | gemeente, provincie | ∞ |
 |rapport_armoede | Hanne | gemeente, provincie | ∞ |
-|rapport_ouderenzorg | Karolien | gemeente, provincie | ∞ |
-|rapport_bgz | Hilde |  gemeente | 1 |
-|rapport_landbouw | Tine (inhoudelijk), Lieven (technisch) | gemeente, provincie | ∞ |
-|rapport_elz | Hilde | elz, elz-via-gemeente | 1 |
-|rapport_ruimte | Valerie | gemeente, provincie | ∞ |
 |rapport_opvangbp | Vera en Emilien |  gemeente | 1 |
-|rapport_arbeidsmarkt|Vicky|gemeente,provincie| ∞ |
+|rapport_ouderenzorg | Karolien | gemeente, provincie | ∞ |
+|rapport_veiligheid | Valerie | gemeente, provincie | ∞ |
+|oa_starthoofdstuk| Hilde | gemeente, provincie | 1 |
+|rapport_bgz | Hilde |  gemeente | 1 |
+|rapport_elz | Hilde | elz, elz-via-gemeente | 1 |
 |tabellenrapport_bevolking | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
-|tabellenrapport_klimaat | Stefan | gemeente | 1 (+3 als vgl-gebied) |
 |tabellenrapport_huishoudens | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
-|tabellenrapport_diversiteit | Lore | gemeente, provincie | 1 |
 |rapport_economie | Vicky | gemeente | 1 (+3 als vgl-gebied) |
-|rapport_mobiliteit | Hanne & Lieven | gemeente, provincie | ∞ |
-|omgevingsanalyse| Hilde | gemeente, provincie | 1 |
+|tabellenrapport_klimaat | Stefan | gemeente | 1 (+3 als vgl-gebied) |
+|tabellenrapport_diversiteit | Lore | gemeente, provincie | 1 |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/databank/report/?id=rapport_klimaat&openinputs=true (live versie)  
