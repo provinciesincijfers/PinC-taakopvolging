@@ -80,7 +80,7 @@ De landingspagina rond rapporten vind je [op hier op Github](https://github.com/
 |detailhandel | Filip (werkgroepDET) | Lieven |
 |landbouw | Tine (werkgroepLAN) | Valerie |
 |wonen | Stefanie | Filip |
-|ruimte | Valerie | Chris |
+|ruimtegebruik | Valerie | OVL |
 |mobiliteit | Lieven | Hanne |
 |klimaat | Stefan (werkgroepKLI) | Lieven |
 |armoede | WVL | Tine |
