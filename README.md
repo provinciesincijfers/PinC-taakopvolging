@@ -59,6 +59,7 @@ Overzichten:
 |tabellenrapport_huishoudens | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
 |rapport_economie | Vicky | gemeente | 1 (+3 als vgl-gebied) |
 |tabellenrapport_klimaat | Stefan | gemeente | 1 (+3 als vgl-gebied) |
+|rapport_energiearmoede | Stefan | gemeente, provincie | 1 |
 |tabellenrapport_diversiteit | Lore | gemeente, provincie | 1 |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
