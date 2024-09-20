@@ -50,7 +50,7 @@ Overzichten:
 |rapport_adaptatie  | Stefan | gemeente, provincie | ∞ |
 |rapport_armoede | Hanne | gemeente, provincie | ∞ |
 |rapport_opvangbp | Vera en Emilien |  gemeente | 1 |
-|rapport_ouderenzorg | ??? | gemeente, provincie | ∞ |
+|rapport_ouderenzorg | Valerie | gemeente, provincie | ∞ |
 |rapport_veiligheid | Valerie | gemeente, provincie | ∞ |
 |oa_starthoofdstuk| Hilde | gemeente, provincie | 1 |
 |rapport_bgz | Hilde |  gemeente | 1 |
