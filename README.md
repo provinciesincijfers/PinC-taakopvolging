@@ -2,7 +2,8 @@
 
 ## Gebruik issuetracker
 
-[Agenda eerstvolgende redactiegroep](https://github.com/provinciesincijfers/PinC-taakopvolging/milestone/2)
+[Agenda eerstvolgende redactiegroep](https://github.com/provinciesincijfers/PinC-taakopvolging/milestone/2).
+
 [Afsprakenkader redactiegroep](https://vlbr.sharepoint.com/:w:/r/teams/DA-Interprovincialewerking/Gedeelde%20documenten/Redactiegroep%20PinC/Afsprakenkader%20Redactiegroep.docx?d=wf8e56f4127ae4c04b7586d42be5bdf13&csf=1&web=1&e=7tHWI9).
 
 Structuur redactiegroep:
