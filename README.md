@@ -46,10 +46,11 @@ Overzichten:
 |rapport_landbouw | Tine (inhoudelijk), Lieven (technisch) | gemeente, provincie | ∞ |
 |rapport_wonen | West-Vlaanderen | gemeente, provincie | ∞ |
 |rapport_ruimte | Valerie | gemeente, provincie | ∞ |
-|rapport_mobiliteit | Hanne & Lieven | gemeente, provincie | ∞ |
+|stories mobiliteit | Hanne & Lieven | gemeente, provincie | ∞ |
 |rapport_klimaat  | Stefan | gemeente, provincie | ∞ |
 |rapport_klimaatscenarios  | Stefan | gemeente, gewest | 2 |
 |rapport_adaptatie  | Stefan | gemeente, provincie | ∞ |
+|stories Natuur | Vera | gemeente, provincie | 1 | 
 |rapport_armoede | Hanne | gemeente, provincie | ∞ |
 |rapport_opvangbp | Vera en Emilien |  gemeente | 1 |
 |rapport_ouderenzorg | Valerie | gemeente, provincie | ∞ |
@@ -65,7 +66,6 @@ Overzichten:
 |rapport_energiearmoede | Stefan | gemeente, provincie | 1 |
 |tabellenrapport_diversiteit | Lore | gemeente, provincie | 1 |
 |stories SDG | Lieven | gemeente | 1 |
-|stories Natuur | Vera | gemeente, provincie | 1 | 
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/databank/report/?id=rapport_klimaat&openinputs=true (live versie)  
