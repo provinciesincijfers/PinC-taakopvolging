@@ -57,7 +57,7 @@ Overzichten:
 |rapport_veiligheid | Valerie | gemeente, provincie | ∞ |
 |oa_starthoofdstuk| Hilde | gemeente, provincie | 1 |
 |rapport_bgz | Hilde |  gemeente | 1 |
-|rapport_elz | Hilde | elz, elz-via-gemeente | 1 |
+|rapport_elz | Hilde en Tine | elz, elz-via-gemeente | 1 |
 |tabellenrapport_bevolking | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
 |tabellenrapport_huishoudens | Stefan | gemeente, statsec, ggw7, deelgemeente | 1 (+3 als vgl-gebied) |
 |rapport_economie | Vicky | gemeente | 1 (+3 als vgl-gebied) |
