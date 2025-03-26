@@ -67,6 +67,7 @@ Overzichten:
 |tabellenrapport_diversiteit | Lore | gemeente, provincie | 1 |
 |stories SDG | Lieven | gemeente | 1 |
 |stories inclusieve arbeidsmarkt | Emilien | gemeente, provincie | ∞ |
+|stories arbeidsmarkt | Vicky | gemeente, provincie, eigen regio | 1 |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/databank/report/?id=rapport_klimaat&openinputs=true (live versie)  
