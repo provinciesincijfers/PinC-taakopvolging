@@ -68,6 +68,7 @@ Overzichten:
 |stories SDG | Lieven | gemeente | 1 |
 |stories inclusieve arbeidsmarkt | Emilien | gemeente, provincie | ∞ |
 |stories arbeidsmarkt | Vicky | gemeente, provincie, eigen regio | 1 |
+|stories detailhandel | Vicky | gemeente, provincie, uitrustingsgraad | 1 |
 
 Om een rapport te testen, voorbeeld voor rapport_klimaat:  
 https://provincies.incijfers.be/databank/report/?id=rapport_klimaat&openinputs=true (live versie)  
