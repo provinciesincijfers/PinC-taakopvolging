@@ -44,7 +44,7 @@ Overzichten:
 |rapport_arbeidsmarkt|Vicky|gemeente,provincie| ∞ |
 |rapport_detailhandel | Filip/Vicky | gemeente, provincie | ∞ |
 |rapport_landbouw | Tine (inhoudelijk), Lieven (technisch) | gemeente, provincie | ∞ |
-|rapport_wonen | West-Vlaanderen | gemeente, provincie | ∞ |
+|stories wonen | West-Vlaanderen | gemeente, provincie | ∞ |
 |rapport_ruimte | Valerie | gemeente, provincie | ∞ |
 |stories mobiliteit | Hanne & Lieven | gemeente, provincie | ∞ |
 |rapport_klimaat  | Stefan | gemeente, provincie | ∞ |
