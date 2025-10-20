@@ -43,7 +43,7 @@ Overzichten:
 |rapport_onderwijs | Vicky | gemeente, provincie | ∞ |
 |rapport_arbeidsmarkt|Vicky|gemeente,provincie| ∞ |
 |rapport_detailhandel | Filip/Vicky | gemeente, provincie | ∞ |
-|rapport_landbouw | Tine (inhoudelijk), Lieven (technisch) | gemeente, provincie | ∞ |
+|stories_landbouw | Tine | gemeente, provincie | ∞ |
 |stories wonen | West-Vlaanderen | gemeente, provincie | ∞ |
 |rapport_ruimte | Valerie | gemeente, provincie | ∞ |
 |stories mobiliteit | Hanne & Lieven | gemeente, provincie | ∞ |
